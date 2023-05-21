@@ -1,0 +1,1 @@
+drag driver in permunban and press y
